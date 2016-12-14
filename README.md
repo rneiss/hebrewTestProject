@@ -1,5 +1,5 @@
 # hebrewTestProject
-Current versions of React Native (at least 0.39.2 and below) don't appear to properly display Hebrew Unicode Characters when cantilation markers (u0591-u05AF) are included under certain conditions.
+Current versions of React Native (at least 0.39.2 and below) don't appear to properly display Hebrew Unicode Characters on iOS when cantilation markers (u0591-u05AF) are included under certain conditions.
 
 This is a demo to display that bug.
 
